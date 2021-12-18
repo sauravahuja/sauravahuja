@@ -21,10 +21,9 @@
 📌 Here's a link to my [Portfolio](https://www.sauravahuja.ml/)
 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravahuja&show_icons=true&locale=en" alt="sauravahuja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravahuja&" alt="sauravahuja" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravahuja" alt="sauravahuja" /></p>
 
 📌 Contact Me :
 
